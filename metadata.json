@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Cognitive Brain",
+  "description": "A real-time cognitive brain simulation interface visualizing the flow from sensory input to conscious perception using Gemini.",
+  "requestFramePermissions": []
+}
